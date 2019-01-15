@@ -1,5 +1,6 @@
  .footer {
-    background-color: black;
+    padding: 50px 0px 0px 0px;
+    background-color: pink;
     color: floralwhite;
 }
 
@@ -12,8 +13,9 @@
 }
 
 body{
-    padding: 50px 0px 0px 0px;
+    padding: 50px 0px 50px 0px;
     z-index: 0;
+    /* width: auto; */
 }
 
 .navbar-dark{
@@ -22,4 +24,8 @@ body{
 
 span{
     padding: 5px 5px 5px 5px;
+}
+
+.container{
+     max-width: auto;
 }

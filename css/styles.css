@@ -57,6 +57,16 @@ span{
     min-height: 300px;
 }
 
+/* .carousel-caption{
+    padding: 10px 10px 10px 10px;
+} */
+
+#carouselButtons{
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+}
+
 #abt_hed{
     background-color: #8b78e6;
     padding: 70px 30px 70px 30px;

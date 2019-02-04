@@ -50,7 +50,7 @@ span{
     height: 300px;
 }
 
-.carousel-item{
+.carousel-item img{
     position: absolute;
     top: 0;
     left: 0;
